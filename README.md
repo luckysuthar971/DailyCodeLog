@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckysuthar971/DailyCodeLog/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/luckysuthar971/DailyCodeLog/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/luckysuthar971/DailyCodeLog/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
